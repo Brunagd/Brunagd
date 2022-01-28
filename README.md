@@ -4,15 +4,15 @@
 
 
 <p align="left">
-  🦄 Linguagens: <strong> Angular, React, React Native, VBA </strong>
+  🦄 Linguagens: <strong> HTML, CSS, Angular, React, React Native, SQL, MySql, Docker, Serveless </strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>Figma, VS Code</strong>
+  💼 Ferramentas: <strong>Figma, VS Code, Git, GitHub, Postman </strong>
 </p>
 
 <p align="left">
-  💌 
+  💌 bruna.garciadelfino@gmail.com
 </p>
 
 <p align="left">
