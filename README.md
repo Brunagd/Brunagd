@@ -33,6 +33,8 @@
 Languages & Technologies: `Angular`, `TypeScript`, `JavaScript`\
 <br/>
   
+  
+  
 [<img align="left" height="100px" width="100px" alt="Warpnet" src="https://images.sympla.com.br/5f733d814382b.png"/>](https://www.digisystem.com.br/)
 
 **Desenvolvedora RPA** \
@@ -40,6 +42,8 @@ Languages & Technologies: `Angular`, `TypeScript`, `JavaScript`\
 Languages & Technologies: `UiPath`, `WDG`\
 <br/>
 
+  
+  
 
 [<img align="left" height="100px" width="100px" alt="Warpnet" src="https://images.sympla.com.br/5f733d814382b.png"/>](https://www.digisystem.com.br/)
 
@@ -47,6 +51,8 @@ Languages & Technologies: `UiPath`, `WDG`\
 [**Digisystem**](https://www.digisystem.com.br/) • Full-time \
 Languages & Technologies: `BPMN`\
 <br/>
+  
+  
   
 [<img align="left" height="100px" width="100px" alt="Warpnet" src="https://images.sympla.com.br/5f733d814382b.png"/>](https://www.digisystem.com.br/)
 
