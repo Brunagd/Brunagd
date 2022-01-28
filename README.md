@@ -26,7 +26,7 @@
   ### Experiencia Profissional 
 
 
-[<img align="left" height="100px" width="100px" alt="Warpnet" src="https://images.sympla.com.br/5f733d814382b.png"/>](https://www.digisystem.com.br/)
+[<img align="left" height="100px" width="100px" alt="Warpnet" src="https://media-exp1.licdn.com/dms/image/C4D0BAQHArAKyWBFdDA/company-logo_200_200/0/1630610763958?e=2159024400&v=beta&t=9hKs1DUWoVALSAfT13lpe9hjvMZha0XK1IFfTL-3OyM"/>](https://www.digisystem.com.br/)
 
 **Estágiaria de desenvolvimento** \
 [**Digisystem**](https://www.digisystem.com.br/) • Full-time \
@@ -35,7 +35,7 @@ Languages & Technologies: `Angular`, `TypeScript`, `JavaScript`\
   
   
   
-[<img align="left" height="100px" width="100px" alt="Warpnet" src="https://images.sympla.com.br/5f733d814382b.png"/>](https://www.digisystem.com.br/)
+[<img align="left" height="100px" width="100px" alt="Warpnet" src="https://media-exp1.licdn.com/dms/image/C4D0BAQHArAKyWBFdDA/company-logo_200_200/0/1630610763958?e=2159024400&v=beta&t=9hKs1DUWoVALSAfT13lpe9hjvMZha0XK1IFfTL-3OyM"/>](https://www.digisystem.com.br/)
 
 **Desenvolvedora RPA** \
 [**Digisystem**](https://www.digisystem.com.br/) • Full-time \
@@ -45,7 +45,7 @@ Languages & Technologies: `UiPath`, `WDG`\
   
   
 
-[<img align="left" height="100px" width="100px" alt="Warpnet" src="https://images.sympla.com.br/5f733d814382b.png"/>](https://www.digisystem.com.br/)
+[<img align="left" height="100px" width="100px" alt="Warpnet" src="https://media-exp1.licdn.com/dms/image/C4D0BAQHArAKyWBFdDA/company-logo_200_200/0/1630610763958?e=2159024400&v=beta&t=9hKs1DUWoVALSAfT13lpe9hjvMZha0XK1IFfTL-3OyM"/>](https://www.digisystem.com.br/)
 
 **Analista de sistemas (Jr)** \
 [**Digisystem**](https://www.digisystem.com.br/) • Full-time \
@@ -54,7 +54,7 @@ Languages & Technologies: `BPMN`\
   
   
   
-[<img align="left" height="100px" width="100px" alt="Warpnet" src="https://images.sympla.com.br/5f733d814382b.png"/>](https://www.digisystem.com.br/)
+[<img align="left" height="100px" width="100px" alt="Warpnet" src="https://media-exp1.licdn.com/dms/image/C4D0BAQHArAKyWBFdDA/company-logo_200_200/0/1630610763958?e=2159024400&v=beta&t=9hKs1DUWoVALSAfT13lpe9hjvMZha0XK1IFfTL-3OyM"/>](https://www.digisystem.com.br/)
 
 **Desenvolvedora de BOT** \
 [**Digisystem**](https://www.digisystem.com.br/) • Full-time \
