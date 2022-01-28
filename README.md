@@ -20,4 +20,41 @@
 
   <a href="#" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bruna-garcia-delfino-5a22bb181/" /></a>
+  
+  
+  
+  ### Experiencia Profissional 
+
+
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://images.sympla.com.br/5f733d814382b.png"/>](https://www.digisystem.com.br/)
+
+**Estágiaria de desenvolvimento** \
+[**Digisystem**](https://www.digisystem.com.br/) • Full-time \
+Languages & Technologies: `Angular`, `TypeScript`, `JavaScript`,\
+<br/>
+  
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://images.sympla.com.br/5f733d814382b.png"/>](https://www.digisystem.com.br/)
+
+**Desenvolvedora RPA ** \
+[**Digisystem**](https://www.digisystem.com.br/) • Full-time \
+Languages & Technologies: `UiPath`, `WDG`,\
+<br/>
+
+
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://images.sympla.com.br/5f733d814382b.png"/>](https://www.digisystem.com.br/)
+
+**Analista de sistemas (Jr)** \
+[**Digisystem**](https://www.digisystem.com.br/) • Full-time \
+Languages & Technologies: `BPMN`,\
+<br/>
+  
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://images.sympla.com.br/5f733d814382b.png"/>](https://www.digisystem.com.br/)
+
+**Desenvolvedora de BOT ** \
+[**Digisystem**](https://www.digisystem.com.br/) • Full-time \
+Languages & Technologies: `Watson Assistant`, `Serveless`, `Node Red`,\
+<br/>
+
+
+  
 </p>  
