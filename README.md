@@ -26,33 +26,33 @@
   ### Experiencia Profissional 
 
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://images.sympla.com.br/5f733d814382b.png"/>](https://www.digisystem.com.br/)
+[<img align="left" height="100px" width="100px" alt="Warpnet" src="https://images.sympla.com.br/5f733d814382b.png"/>](https://www.digisystem.com.br/)
 
 **Estágiaria de desenvolvimento** \
 [**Digisystem**](https://www.digisystem.com.br/) • Full-time \
-Languages & Technologies: `Angular`, `TypeScript`, `JavaScript`,\
+Languages & Technologies: `Angular`, `TypeScript`, `JavaScript`\
 <br/>
   
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://images.sympla.com.br/5f733d814382b.png"/>](https://www.digisystem.com.br/)
+[<img align="left" height="100px" width="100px" alt="Warpnet" src="https://images.sympla.com.br/5f733d814382b.png"/>](https://www.digisystem.com.br/)
 
-**Desenvolvedora RPA ** \
+**Desenvolvedora RPA** \
 [**Digisystem**](https://www.digisystem.com.br/) • Full-time \
-Languages & Technologies: `UiPath`, `WDG`,\
+Languages & Technologies: `UiPath`, `WDG`\
 <br/>
 
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://images.sympla.com.br/5f733d814382b.png"/>](https://www.digisystem.com.br/)
+[<img align="left" height="100px" width="100px" alt="Warpnet" src="https://images.sympla.com.br/5f733d814382b.png"/>](https://www.digisystem.com.br/)
 
 **Analista de sistemas (Jr)** \
 [**Digisystem**](https://www.digisystem.com.br/) • Full-time \
-Languages & Technologies: `BPMN`,\
+Languages & Technologies: `BPMN`\
 <br/>
   
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://images.sympla.com.br/5f733d814382b.png"/>](https://www.digisystem.com.br/)
+[<img align="left" height="100px" width="100px" alt="Warpnet" src="https://images.sympla.com.br/5f733d814382b.png"/>](https://www.digisystem.com.br/)
 
-**Desenvolvedora de BOT ** \
+**Desenvolvedora de BOT** \
 [**Digisystem**](https://www.digisystem.com.br/) • Full-time \
-Languages & Technologies: `Watson Assistant`, `Serveless`, `Node Red`,\
+Languages & Technologies: `Watson Assistant`, `Serveless`, `Node Red`\
 <br/>
 
 
